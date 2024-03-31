@@ -1,0 +1,1 @@
+giving data in class and print the key value by using  class methods
